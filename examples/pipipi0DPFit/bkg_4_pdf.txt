@@ -1,0 +1,8 @@
+bkg4_dalitz_smoothing 1 0 100 0.99 1.01
+bkg4_dtime_frac1 0.379648 0.0844656 100 0 0.8
+bkg4_dtime_gmean1 -0.346368 0.157774 100 -0.5 0.5
+bkg4_dtime_gsigm1 0.61425 0.0521823 100 0.01 0.8
+bkg4_dtime_alpha1 2.01064 0.309725 100 0.01 7.5
+bkg4_dtime_gmean2 -0.0764787 0.0259479 100 -0.85 0.85
+bkg4_dtime_gsigm2 0.265981 0.018806 100 0.01 0.8
+bkg4_dtime_alpha2 3.01728 0.656596 100 0.01 10

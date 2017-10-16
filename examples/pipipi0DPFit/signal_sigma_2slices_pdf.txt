@@ -1,0 +1,9 @@
+constantZero 0 0 100 -0.01 0.01
+constantBigM 3.53481 0 100 3.52481 3.54481
+constantMinusOne -1 0 100 -1.01 -0.99
+bkg0_sigma_slice0_gauss_meana 0.212755 0.000807722 100 0 0.8
+bkg0_sigma_slice0_gauss_sigma 0.0507851 0.000633141 100 0.01 0.2
+bkg0_sigma_slice0_expalpha 5.1049 0.0457103 100 0 10
+bkg0_sigma_slice1_gauss_meana 0.118573 0.000420742 100 0 0.8
+bkg0_sigma_slice1_gauss_sigma 0.0194796 0.000367477 100 0.01 0.2
+bkg0_sigma_slice1_expalpha 7.30166 0.0480928 100 0 10

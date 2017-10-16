@@ -1,0 +1,15 @@
+constantZero 0 0 100 -0.01 0.01
+constantBigM 3.53481 0 100 3.52481 3.54481
+constantMinusOne -1 0 100 -1.01 -0.99
+bkg0_sigma_slice0_gauss_meana 0.23246 0.000995902 100 0 0.8
+bkg0_sigma_slice0_gauss_sigma 0.0563524 0.000752298 100 0.01 0.2
+bkg0_sigma_slice0_expalpha 5.08577 0.0565143 100 0 10
+bkg0_sigma_slice1_gauss_meana 0.181352 0.00108664 100 0 0.8
+bkg0_sigma_slice1_gauss_sigma 0.0359504 0.000891099 100 0.01 0.2
+bkg0_sigma_slice1_expalpha 6.22477 0.0829344 100 0 10
+bkg0_sigma_slice2_gauss_meana 0.129385 0.000786015 100 0 0.8
+bkg0_sigma_slice2_gauss_sigma 0.0212987 0.000692669 100 0.01 0.2
+bkg0_sigma_slice2_expalpha 6.84406 0.079502 100 0 10
+bkg0_sigma_slice3_gauss_meana 0.114182 0.000476706 100 0 0.8
+bkg0_sigma_slice3_gauss_sigma 0.017869 0.000411162 100 0.01 0.2
+bkg0_sigma_slice3_expalpha 7.62933 0.0599691 100 0 10
